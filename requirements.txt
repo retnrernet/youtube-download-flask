@@ -1,0 +1,3 @@
+vk_api
+wget
+bottle==0.10.2
